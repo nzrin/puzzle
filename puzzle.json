@@ -1,0 +1,28 @@
+[
+   {
+      "category":"Scenery",
+      "puzzles":[
+         {
+            "title":"Paint Beach",
+            "url":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/12/nepal.jpg"
+         },
+         {
+            "title":"Panorama Sun",
+            "url":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/12/nepal.jpg"
+         }
+      ]
+   },
+   {
+      "category":"Nature",
+      "puzzles":[
+         {
+            "title":"Nature By Groove",
+            "url":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/12/nepal.jpg"
+         },
+         {
+            "title":"River Scape",
+            "url":"https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/12/nepal.jpg"
+         }
+      ]
+   }
+]
