@@ -1,6 +1,7 @@
 [
    {
-      "category":"Scenery",
+      "category":"Scenery I",
+      "isPremium":"false",
       "puzzles":[
          {
             "title":"Paint Beach",
@@ -17,11 +18,24 @@
          {
             "title":"Yokohama Dest",
             "url":"https://japanspecialist.com/o/adaptive-media/image/2281308/big/1-Exploring-the-Nature-of-Japan-14-Natural-Wonders-body.jpg"
+         },
+         {
+            "title":"Autumn Flower",
+            "url":"https://avgtravels.com/au/wp-content/uploads/sites/4/1-25.jpg"
+         },
+         {
+            "title":"City Forest",
+            "url":"https://avgtravels.com/au/wp-content/uploads/sites/4/2-25.jpg"
+         },
+         {
+            "title":"Mount Far",
+            "url":"https://avgtravels.com/au/wp-content/uploads/sites/4/3-25.jpg"
          }
       ]
    },
    {
-      "category":"Nature",
+      "category":"Nature I",
+      "isPremium":"false",
       "puzzles":[
          {
             "title":"Nature By Groove",
@@ -34,7 +48,8 @@
       ]
    },
    {
-      "category":"Transportation",
+      "category":"Transportation I",
+      "isPremium":"false",
       "puzzles":[
          {
             "title":"Black Car",
@@ -47,6 +62,25 @@
          {
             "title":"Yellow Car",
             "url":"https://cdn.pixabay.com/photo/2022/07/04/10/46/vintage-car-7300881_1280.jpg"
+         }
+      ]
+   },
+   {
+      "category":"Cartoon",
+      "isPremium":"true",
+      "price":"3000"
+      "puzzles":[
+         {
+            "title":"Far Away",
+            "url":"https://img.magnific.com/free-photo/couple-bus-sunset_23-2151850184.jpg"
+         },
+         {
+            "title":"Slurpy",
+            "url":"https://images7.alphacoders.com/135/thumb-1920-1354305.jpeg"
+         },
+         {
+            "title":"Mickey Go",
+            "url":"https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/cartoon-chromebook-wallpaper.jpg"
          }
       ]
    }
